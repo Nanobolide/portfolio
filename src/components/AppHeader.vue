@@ -14,21 +14,21 @@
 
       <!-- MENU NAVIGATION SUR GRAND ÉCRAN -->
       <nav class="hidden md:flex gap-6 text-gray-700">
-        <a href="#home" class="hover:text-red-600 transition">Accueil</a>
+        <a href="home" class="hover:text-red-600 transition">Accueil</a>
         <a href="#about" class="hover:text-red-600 transition">À propos</a>
         <a href="#projects" class="hover:text-red-600 transition">Projets</a>
         <a href="#contact" class="hover:text-red-600 transition">Contact</a>
-        <a href="#cv" class="hover:text-red-600 transition">CV</a>
+        <a href="cv" class="hover:text-red-600 transition">CV</a>
       </nav>
     </div>
 
     <!-- MENU MOBILE -->
     <div v-if="isOpen" class="md:hidden px-6 pb-4 flex flex-col gap-3 text-gray-700 bg-white shadow">
-      <a href="#home" class="hover:text-red-600 transition">Accueil</a>
+      <a href="home" class="hover:text-red-600 transition">Accueil</a>
       <a href="#about" class="hover:text-red-600 transition">À propos</a>
       <a href="#projects" class="hover:text-red-600 transition">Projets</a>
       <a href="#contact" class="hover:text-red-600 transition">Contact</a>
-      <a href="#cv" class="hover:text-red-600 transition">CV</a>
+      <a href="cv" class="hover:text-red-600 transition">CV</a>
     </div>
   </header>
 </template>
