@@ -60,7 +60,7 @@
                 </div>
                 <div>
                   <p class="text-sm text-gray-500">Téléphone/WhatsApp</p>
-                  <p class="text-gray-900 font-medium group-hover:text-[#00E0A1] transition duration-300">+225 07 89 10 37 31</p>
+                  <p class="text-gray-900 font-medium group-hover:text-[#00E0A1] transition duration-300">+236 74440234</p>
                 </div>
               </a>
               
