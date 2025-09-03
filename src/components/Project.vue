@@ -39,7 +39,8 @@
             </div>
             <h3 class="font-bold text-xl mb-3 text-gray-900">Fintech RCA</h3>
             <p class="text-gray-700 mb-4">
-              Plateforme d'inclusion financière centrafricaine.Mobile money local: https://fintech-rca.vercel.app/
+              Plateforme d'inclusion financière centrafricaine.Mobile money local: <a href="https://fintech-rca.vercel.app/">Balaco Fintech</a>
+ 
             </p>
             <div class="flex justify-between items-center">
               <div class="flex space-x-2">
