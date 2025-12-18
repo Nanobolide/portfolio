@@ -182,6 +182,18 @@
               </svg>
               Portfolio
             </a>
+
+            <!-- Lien pour télécharger le CV -->
+            <a 
+              href="/CV_Japhet_Maidou_fr.pdf" 
+              download="CV_Geoffroy_MAIDOU.pdf"
+              class="flex items-center text-green-600 hover:text-green-800 transition font-medium bg-green-50 px-4 py-2 rounded-lg"
+            >
+              <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
+              </svg>
+              Télécharger mon CV (PDF)
+            </a>
           </div>
         </section>
       </div>
@@ -192,60 +204,68 @@
         <section class="mb-8">
           <h3 class="text-xl font-bold border-b-2 border-green-600 pb-2 mb-4">EXPÉRIENCES PROFESSIONNELLES</h3>
           
+          <!-- Ministère des Finances et du Budget -->
+            <div class="mb-6 pb-6 border-b border-gray-100">
+              <div class="flex justify-between items-start">
+                <div>
+                  <h4 class="font-bold text-lg text-gray-900">Stagiaire Ingénieur Logiciel</h4>
+                  <p class="text-green-600 font-medium">Ministère des Finances et du Budget</p>
+                </div>
+                <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
+                  Sept. 2025 – Aujourd'hui | Bangui (République Centrafricaine)
+                </span>
+              </div>
+              <ul class="list-disc list-inside text-sm space-y-2 text-gray-700 mt-3">
+                <li>Analyse des systèmes existants et conception d’une architecture d’API centralisée</li>
+                <li>Collaboration avec la DSI pour optimiser les flux applicatifs</li>
+                <li>Rédaction de rapports techniques et mise en place de mesures de sécurité renforcées</li>
+                <li>
+                 <span class="text-green-600 font-medium"> Projet en cours :</span>Développement d’une API passerelle pour centraliser les données, garantir leur cohérence, validité et sécurité dans les systèmes du ministère
+                </li>
+                <li >
+                  <span class="text-green-600 font-medium"> Projet en cours : </span>Conception d’un Système de Gestion du Personnel pour la DSI
+                </li>
+              </ul>
+            </div>
+
           <!-- Défis et Stratégie -->
-          <div class="mb-6 pb-6 border-b border-gray-100">
+          <div class="mb-6">
             <div class="flex justify-between items-start">
               <div>
                 <h4 class="font-bold text-lg text-gray-900">Consultant IT</h4>
                 <p class="text-green-600 font-medium">Défis et Stratégie</p>
               </div>
               <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
-                Sept. 2025 – Aujourd'hui | Bangui
+                Nov. 2024 – Août 2025 | Abidjan (Côte d'Ivoire)
               </span>
             </div>
             <ul class="list-disc list-inside text-sm space-y-2 text-gray-700 mt-3">
-              <li>Analyse des systèmes existants et proposition d'une architecture d'API centralisée</li>
-              <li>Collaboration avec la DSI pour améliorer les flux applicatifs</li>
-              <li>Rédaction de rapports techniques et renforcement de la sécurité des échanges sensibles</li>
-              <li class="text-green-600 font-medium">Projets en cours : Intégration Sydonia-Simba & Gestion DSI</li>
+              <li>Gestion d'une application de sécurité critique pour les forces de l'ordre</li>
+              <li>Implémentation de protocoles de chiffrement et conformité</li>
             </ul>
           </div>
 
-          <!-- Worldev Solutions -->
-          <div class="mb-6 pb-6 border-b border-gray-100">
+                    <!-- Worldev Solutions -->
+         <div class="mb-6 pb-6 border-b border-gray-100">
             <div class="flex justify-between items-start">
               <div>
                 <h4 class="font-bold text-lg text-gray-900">Développeur Full-Stack & Chef de Projet</h4>
                 <p class="text-green-600 font-medium">Worldev Solutions CI</p>
               </div>
               <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
-                Nov. 2024 – Août 2025 | Abidjan (Côte d'Ivoire)
-              </span>
-            </div>
-            <ul class="list-disc list-inside text-sm space-y-2 text-gray-700 mt-3">
-              <li>Conception d'applications web avec Laravel & Vue.js</li>
-              <li>Gestion Agile des sprints et intégration d'API sécurisées (JWT)</li>
-              <li>Collaboration avec des agences des forces de l'ordre sur la gestion et formation d'une application de sécurité critique</li>
-            </ul>
-          </div>
-
-          <!-- Ministère des Finances -->
-          <div class="mb-6">
-            <div class="flex justify-between items-start">
-              <div>
-                <h4 class="font-bold text-lg text-gray-900">Stagiaire DevOps</h4>
-                <p class="text-green-600 font-medium">Ministère des Finances et du Budget (RCA)</p>
-              </div>
-              <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
                 Mars – Oct. 2024 | Abidjan (Côte d'Ivoire)
               </span>
             </div>
-            <ul class="list-disc list-inside text-sm space-y-2 text-gray-700 mt-3">
-              <li>Gestion d'une application de sécurité critique pour les forces de l'ordre</li>
-              <li>Implémentation de protocoles de chiffrement et conformité RGPD</li>
-              <li>Automatisation des flux de données entre systèmes gouvernementaux</li>
-            </ul>
+           <ul class="list-disc list-inside text-sm space-y-2 text-gray-700 mt-3">
+            <li>Conception et développement d’applications web complètes en <strong>Laravel</strong> (backend) et <strong>Vue.js</strong> (frontend), avec une architecture modulaire, évolutive et orientée microservices</li>
+            <li>Mise en place et documentation de <strong>API sécurisées</strong> (JWT, OAuth2) permettant l’intégration fluide avec des systèmes tiers et garantissant la confidentialité des données sensibles</li>
+            <li>Pilotage de projets en méthodologie <strong>Agile/Scrum</strong> : définition des user stories, planification des sprints, suivi des livrables et coordination des équipes Dev/Ops pour respecter les délais</li>
+            <li>Optimisation des performances applicatives via <strong>tests unitaires et automatisés</strong>, refactoring du code et monitoring, afin d’assurer une haute disponibilité et une expérience utilisateur optimale</li>
+            <li>Collaboration directe avec les parties prenantes (clients, équipes métiers) pour traduire les besoins fonctionnels en solutions techniques robustes</li>
+          </ul>
+
           </div>
+
         </section>
 
         <!-- Formation -->
@@ -294,7 +314,7 @@
             <div class="border border-gray-200 rounded-lg p-4 hover:border-green-300 transition">
               <div class="flex justify-between items-start">
                 <div>
-                  <h4 class="font-bold text-gray-900">Sydonia-Simba File Bridge</h4>
+                  <h4 class="font-bold text-gray-900">API Gateway Ministère des Finances (RCA)</h4>
                   <div class="flex items-center mt-1">
                     <span class="bg-orange-100 text-orange-800 px-2 py-1 rounded text-xs font-medium mr-2">Ministère des Finances</span>
                     <span class="bg-green-100 text-green-800 px-2 py-1 rounded text-xs font-medium">En cours</span>
@@ -302,8 +322,8 @@
                 </div>
               </div>
               <p class="text-sm text-gray-600 mb-3 mt-2">
-                API d'intégration pour le transfert automatisé et sécurisé des fichiers entre Sydonia Word (douane) et Simba (trésor public).
-              </p>
+                 Développement d’une API passerelle centralisée destinée au Ministère des Finances et du Budget de la République Centrafricaine.
+                  Cette solution agit comme un point d’entrée unique pour les différents systèmes existants </p>
               <div class="flex flex-wrap gap-2 mb-3">
                 <span class="bg-blue-50 text-blue-700 px-2 py-1 rounded text-xs">Laravel API</span>
                 <span class="bg-blue-50 text-blue-700 px-2 py-1 rounded text-xs">Docker</span>
@@ -410,21 +430,7 @@
               </a>
             </div>
 
-            <!-- Balaco -->
-            <div class="border border-gray-200 rounded-lg p-4 hover:border-green-300 transition">
-              <div class="flex justify-between items-start">
-                <h4 class="font-bold text-gray-900">Balaco - Application de Sécurité</h4>
-                <span class="bg-red-100 text-red-800 px-2 py-1 rounded text-xs font-medium">Sécurité</span>
-              </div>
-              <p class="text-sm text-gray-600 mb-3 mt-1">
-                Application de gestion critique pour les forces de l'ordre avec protocoles de chiffrement et conformité RGPD
-              </p>
-              <div class="flex flex-wrap gap-2">
-                <span class="bg-red-50 text-red-700 px-2 py-1 rounded text-xs">Sécurité</span>
-                <span class="bg-red-50 text-red-700 px-2 py-1 rounded text-xs">Chiffrement</span>
-                <span class="bg-red-50 text-red-700 px-2 py-1 rounded text-xs">RGPD</span>
-              </div>
-            </div>
+     
           </div>
         </section>
       </div>
