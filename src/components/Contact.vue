@@ -5,7 +5,7 @@
       <div class="absolute top-1/4 left-1/4 w-64 h-64 bg-[#00E0A1]/10 rounded-full mix-blend-multiply filter blur-[100px] animate-float"></div>
       <div class="absolute top-1/2 right-1/4 w-64 h-64 bg-[#0A1A2F]/10 rounded-full mix-blend-multiply filter blur-[100px] animate-float animation-delay-2000"></div>
       <div class="absolute bottom-1/3 left-1/2 w-64 h-64 bg-[#00E0A1]/5 rounded-full mix-blend-multiply filter blur-[100px] animate-float animation-delay-4000"></div>
-    </div>
+    </div> 
 
     <div class="relative z-10 max-w-7xl mx-auto px-6 md:px-12">
       <!-- En-tête stylisé harmonisé -->
