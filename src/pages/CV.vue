@@ -3,7 +3,7 @@
     <!-- En-tête -->
     <header class="border-b-2 border-green-600 pb-6 mb-8">
       <h1 class="text-4xl font-bold text-gray-900">GEOFFROY JAPHET MAIDOU</h1>
-      <h2 class="text-2xl text-green-600 mt-2">SOFTW ARE ENGINEER</h2>
+      <h2 class="text-2xl text-green-600 mt-2">SOFTWARE ENGINEER</h2>
       
       <div class="grid md:grid-cols-3 gap-4 mt-6">
         <div class="flex items-center">
@@ -63,7 +63,7 @@
             <div class="flex flex-wrap gap-2">
               <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">Vue.js</span>
               <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">React Native</span>
-              <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">JAVA</span>
+              <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">JAVA: Spring Boot</span>
               <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">PHP</span>
               <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">JavaScript</span>
               <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">Laravel</span>
@@ -80,7 +80,6 @@
               <span class="bg-purple-100 text-purple-800 px-2 py-1 rounded text-xs">Nginx</span>
               <span class="bg-purple-100 text-purple-800 px-2 py-1 rounded text-xs">Apache</span>
               <span class="bg-purple-100 text-purple-800 px-2 py-1 rounded text-xs">Bash</span>
-              <span class="bg-purple-100 text-purple-800 px-2 py-1 rounded text-xs">SMB/UNC</span>
             </div>
           </div>
 
