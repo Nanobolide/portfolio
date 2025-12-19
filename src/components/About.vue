@@ -148,18 +148,12 @@
 
 <script setup>
 const technologies = [
-  'Vue.js/Nuxt', 
-  'React/Next', 
-  'TypeScript', 
-  'Node.js', 
-  'Laravel',
-  'Tailwind CSS',
-  'PostgreSQL',
-  'Docker',
-  'AWS',
+  'Frontend: Vue.js,React',  
+  'Backend: FastAPI, ,Laravel,Spring Boot', 
+  'Bases de données : PostgreSQL, SQL',
   'GraphQL',
-  'Jest',
-  'Figma'
+  'DevOps & Cloud : Docker, AWS, Kubernetes, CI/CD',
+  'Ansible'
 ];
 </script>
 

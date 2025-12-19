@@ -53,6 +53,7 @@
               <span class="bg-green-100 text-green-800 px-2 py-1 rounded text-xs">GitHub Actions</span>
               <span class="bg-green-100 text-green-800 px-2 py-1 rounded text-xs">AWS</span>
               <span class="bg-green-100 text-green-800 px-2 py-1 rounded text-xs">Render</span>
+              <span class="bg-green-100 text-green-800 px-2 py-1 rounded text-xs">Vercel</span>
               <span class="bg-green-100 text-green-800 px-2 py-1 rounded text-xs">Openshift</span>
             </div>
           </div>
@@ -64,9 +65,8 @@
               <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">Vue.js</span>
               <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">React Native</span>
               <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">JAVA: Spring Boot</span>
-              <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">PHP</span>
-              <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">JavaScript</span>
-              <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">Laravel</span>
+              <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">PHP: Laravel</span>
+              <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">React</span>
               <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs">API REST</span>
             </div>
           </div>
@@ -79,20 +79,17 @@
               <span class="bg-purple-100 text-purple-800 px-2 py-1 rounded text-xs">Windows Server</span>
               <span class="bg-purple-100 text-purple-800 px-2 py-1 rounded text-xs">Nginx</span>
               <span class="bg-purple-100 text-purple-800 px-2 py-1 rounded text-xs">Apache</span>
-              <span class="bg-purple-100 text-purple-800 px-2 py-1 rounded text-xs">Bash</span>
-            </div>
+             </div>
           </div>
 
           <!-- Outils -->
           <div class="mb-4">
             <h4 class="font-semibold text-gray-700 mb-2">Outils</h4>
             <div class="flex flex-wrap gap-2">
-              <span class="bg-gray-100 text-gray-800 px-2 py-1 rounded text-xs">Git</span>
+              <span class="bg-gray-100 text-gray-800 px-2 py-1 rounded text-xs">Git/Github</span>
               <span class="bg-gray-100 text-gray-800 px-2 py-1 rounded text-xs">Jira</span>
               <span class="bg-gray-100 text-gray-800 px-2 py-1 rounded text-xs">Trello</span>
               <span class="bg-gray-100 text-gray-800 px-2 py-1 rounded text-xs">Agile/Scrum</span>
-              <span class="bg-gray-100 text-gray-800 px-2 py-1 rounded text-xs">FileSystem Watcher</span>
-              <span class="bg-gray-100 text-gray-800 px-2 py-1 rounded text-xs">Monolog</span>
             </div>
           </div>
 
@@ -125,7 +122,7 @@
             <div>
               <div class="flex justify-between mb-1">
                 <span class="text-sm font-medium text-gray-700">Anglais</span>
-                <span class="text-sm text-green-600 font-medium">Intermédiaire</span>
+                <span class="text-sm text-green-600 font-medium">B1 – intermédiaire</span>
               </div>
               <div class="w-full bg-gray-200 rounded-full h-2">
                 <div class="bg-green-600 h-2 rounded-full" style="width: 70%"></div>
